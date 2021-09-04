@@ -1,0 +1,60 @@
+https://stackoverflow.com/questions/40700039/how-can-you-clone-a-conda-environment-into-the-root-environment
+
+There are options to copy dependency names/urls/versions to files.
+
+Recommendation
+
+Normally it is safer to work from a new environment rather than changing root. However, consider backing up your existing environments before attempting changes. Verify the desired outcome by testing these commands in a demo environment. To backup your root env for example:
+
+λ conda activate root
+λ conda env export > environment_root.yml
+λ conda list --explicit > spec_file_root.txt
+Options
+
+Option 1 - YAML file
+
+Within the second environment (e.g. myenv), export names+ to a yaml file:
+
+λ activate myenv
+λ conda env export > environment.yml  
+then update the first environment+ (e.g. root) with the yaml file:
+
+λ conda env update --name root --file environment.yml     
+Option 2 - Cloning an environment
+
+Use the --clone flag to clone environments (see @DevC's post):
+
+λ conda create --name myclone --clone root
+This basically creates a direct copy of an environment.
+
+Option 3 - Spec file
+
+Make a spec-file++ to append dependencies from an env (see @Ormetrom):
+
+λ activate myenv
+λ conda list --explicit > spec_file.txt
+λ conda install --name root --file spec_file.txt
+Alternatively, replicate a new environment (recommended):
+
+λ conda create --name myenv2 --file spec_file.txt
+See Also
+
+conda env for more details on the env sub-commands.
+Anaconada Navigator desktop program for a more graphical experience.
+Docs on updated commands. With older conda versions use activate (Windows) and source activate (Linux/Mac OS). Newer versions of conda can use conda activate (this may require some setup with your shell configuration via conda init).
+Discussion on keeping conda env
+Extras
+
+There appears to be an undocumented conda run option to help execute commands in specific environments.
+
+# New command
+λ conda run --name myenv conda list --explicit > spec_file.txt
+The latter command is effective at running commands in environments without the activation/deactivation steps. See the equivalent command below:
+
+# Equivalent
+λ activate myenv
+λ conda list --explicit > spec_file.txt
+λ deactivate
+Note, this is likely an experimental feature, so this may not be appropriate in production until official adoption into the public API.
+
++Conda docs have changed since the original post; links updated. ++Spec-files only work with environments created on the same OS. Unlike the first two options, spec-files only capture links to conda dependencies; pip dependencies are not included.

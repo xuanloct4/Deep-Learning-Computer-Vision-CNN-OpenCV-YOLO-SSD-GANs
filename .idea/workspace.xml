@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="324183e8-7f20-42fe-afca-b0fd3327f1c1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code_TensorFlow2_Version/4. Get Started! Handwritting Recognition, Simple Object Classification &amp; OpenCV Demo/.ipynb_checkpoints/4.1 - Handwritten Digit Classification Demo (MNIST)-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Code_TensorFlow2_Version/4. Get Started! Handwritting Recognition, Simple Object Classification &amp; OpenCV Demo/.ipynb_checkpoints/4.1 - Handwritten Digit Classification Demo (MNIST)-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code_TensorFlow2_Version/4. Get Started! Handwritting Recognition, Simple Object Classification &amp; OpenCV Demo/4.1 - Handwritten Digit Classification Demo (MNIST).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Code_TensorFlow2_Version/4. Get Started! Handwritting Recognition, Simple Object Classification &amp; OpenCV Demo/4.1 - Handwritten Digit Classification Demo (MNIST).ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/darkflow/labels.txt" beforeDir="false" afterPath="$PROJECT_DIR$/darkflow/labels.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow/models/research/object_detection/object_detection_tutorial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/tensorflow/models/research/object_detection/object_detection_tutorial.ipynb" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Code_TensorFlow2_Version/4. Get Started! Handwritting Recognition, Simple Object Classification &amp; OpenCV Demo/Test - Imports Keras, OpenCV and tests webcam.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Code_TensorFlow2_Version/4. Get Started! Handwritting Recognition, Simple Object Classification &amp; OpenCV Demo/4.2 - Image Classifier - CIFAR10.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Code_TensorFlow2_Version/4. Get Started! Handwritting Recognition, Simple Object Classification &amp; OpenCV Demo/4.1 - Handwritten Digit Classification Demo (MNIST).ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="/Library/WebServer/Documents/hot/HoTMobile/android" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/AMI/ami-android-base-customer" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Code_TensorFlow2_Version/4. Get Started! Handwritting Recognition, Simple Object Classification &amp; OpenCV Demo/4.1 - Handwritten Digit Classification Demo (MNIST).ipynb" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/tensorflow/models/research/syntaxnet/dragnn/viz/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="25" />
+    <option name="width" value="1440" />
+    <option name="height" value="813" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Clean UpRobot</id>
+          </State>
+          <State>
+            <id>CompilationRobot</id>
+          </State>
+          <State>
+            <id>ComplexityRobot</id>
+          </State>
+          <State>
+            <id>ReadabilityRobot</id>
+          </State>
+          <State>
+            <id>Robot</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Deep-Learning-Computer-Vision-CNN-OpenCV-YOLO-SSD-GANs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Deep-Learning-Computer-Vision-CNN-OpenCV-YOLO-SSD-GANs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Deep-Learning-Computer-Vision-CNN-OpenCV-YOLO-SSD-GANs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Deep-Learning-Computer-Vision-CNN-OpenCV-YOLO-SSD-GANs" type="462c0819:PsiDirectoryNode" />
+              <item name="Code_TensorFlow2_Version" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Deep-Learning-Computer-Vision-CNN-OpenCV-YOLO-SSD-GANs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Deep-Learning-Computer-Vision-CNN-OpenCV-YOLO-SSD-GANs" type="462c0819:PsiDirectoryNode" />
+              <item name="Code_TensorFlow2_Version" type="462c0819:PsiDirectoryNode" />
+              <item name="4. Get Started! Handwritting Recognition, Simple Object Classification &amp; OpenCV Demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/Documents/Android/sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="robot.plugin.autocomplete_keywords_strict" value="false" />
+    <property name="robot.plugin.highlight_invalid_keywords" value="true" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Deep-Learning-Computer-Vision-CNN-OpenCV-YOLO-SSD-GANs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="CURRENT_VAGRANT" />
+    <option name="myConnectionId" value="" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="324183e8-7f20-42fe-afca-b0fd3327f1c1" name="Default Changelist" comment="" />
+      <created>1630751920650</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630751920650</updated>
+      <workItem from="1630751923139" duration="1077000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1077000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1440" height="813" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Capture Tool" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.74965036" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="RNConsole" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="PlantUML" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" x="0" y="0" width="310" height="613" id="Documentation" side_tool="true" weight="0.3297568" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Code_TensorFlow2_Version/4. Get Started! Handwritting Recognition, Simple Object Classification &amp; OpenCV Demo/Test - Imports Keras, OpenCV and tests webcam.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code_TensorFlow2_Version/4. Get Started! Handwritting Recognition, Simple Object Classification &amp; OpenCV Demo/4.2 - Image Classifier - CIFAR10.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code_TensorFlow2_Version/4. Get Started! Handwritting Recognition, Simple Object Classification &amp; OpenCV Demo/4.1 - Handwritten Digit Classification Demo (MNIST).ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="6" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 2.7 interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.6 (masterai)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Deep-Learning-Computer-Vision-CNN-OpenCV-YOLO-SSD-GANs</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
