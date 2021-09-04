@@ -25,7 +25,7 @@ cd
 git clone https://github.com/cocodataset/cocoapi.git
 cd cocoapi/PythonAPI
 make
-cp -r pycocotools /home/deeplearningcv/models/models/research
+cp -r pycocotools ./tensorflow/models/models/research
 # From tensorflow/models/research/
 wget -O protobuf.zip https://github.com/google/protobuf/releases/download/v3.0.0/protoc-3.0.0-linux-x86_64.zip
 unzip protobuf.zip
